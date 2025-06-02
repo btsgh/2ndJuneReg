@@ -20,6 +20,10 @@
     {
       "id": "Movies",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
